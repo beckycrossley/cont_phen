@@ -10,5 +10,5 @@ Date: 01/03/2025
 
 ## Script descriptions 
 
-The .py file contains all of the necessary functions to produce the figures for the example case in range-expansion.ipynb.
-The following two examples, gg_ecm.ipynb and Tcell.ipynb have the appropriate functions within the notebooks.
+The cont_phen_solver.py file contains all of the necessary functions to produce the figures for the example case in range-expansion.ipynb.
+The following two examples, GG_ECM.ipynb and Tcells.ipynb have the appropriate functions within the notebooks.
