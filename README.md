@@ -1,6 +1,4 @@
 # Modelling the impact of phenotypic heterogeneity on cell migration
-Code to produce the figures and run simulations from the paper. 
-
 ## Overview 
 
 This repository contains the scripts needed to produce the figures in the manuscript entitled: "Modelling the impact of phenotypic heterogeneity on cell migration: a continuum framework derived from individual-based principles".
